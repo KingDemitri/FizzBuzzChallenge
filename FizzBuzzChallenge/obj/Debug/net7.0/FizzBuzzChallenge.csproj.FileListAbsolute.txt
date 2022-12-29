@@ -1,0 +1,15 @@
+C:\Users\Demitri\source\repos\FizzBuzzChallenge\FizzBuzzChallenge\obj\Debug\net7.0\FizzBuzzChallenge.csproj.AssemblyReference.cache
+C:\Users\Demitri\source\repos\FizzBuzzChallenge\FizzBuzzChallenge\obj\Debug\net7.0\FizzBuzzChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Demitri\source\repos\FizzBuzzChallenge\FizzBuzzChallenge\obj\Debug\net7.0\FizzBuzzChallenge.AssemblyInfoInputs.cache
+C:\Users\Demitri\source\repos\FizzBuzzChallenge\FizzBuzzChallenge\obj\Debug\net7.0\FizzBuzzChallenge.AssemblyInfo.cs
+C:\Users\Demitri\source\repos\FizzBuzzChallenge\FizzBuzzChallenge\obj\Debug\net7.0\FizzBuzzChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Demitri\source\repos\FizzBuzzChallenge\FizzBuzzChallenge\bin\Debug\net7.0\FizzBuzzChallenge.exe
+C:\Users\Demitri\source\repos\FizzBuzzChallenge\FizzBuzzChallenge\bin\Debug\net7.0\FizzBuzzChallenge.deps.json
+C:\Users\Demitri\source\repos\FizzBuzzChallenge\FizzBuzzChallenge\bin\Debug\net7.0\FizzBuzzChallenge.runtimeconfig.json
+C:\Users\Demitri\source\repos\FizzBuzzChallenge\FizzBuzzChallenge\bin\Debug\net7.0\FizzBuzzChallenge.dll
+C:\Users\Demitri\source\repos\FizzBuzzChallenge\FizzBuzzChallenge\bin\Debug\net7.0\FizzBuzzChallenge.pdb
+C:\Users\Demitri\source\repos\FizzBuzzChallenge\FizzBuzzChallenge\obj\Debug\net7.0\FizzBuzzChallenge.dll
+C:\Users\Demitri\source\repos\FizzBuzzChallenge\FizzBuzzChallenge\obj\Debug\net7.0\refint\FizzBuzzChallenge.dll
+C:\Users\Demitri\source\repos\FizzBuzzChallenge\FizzBuzzChallenge\obj\Debug\net7.0\FizzBuzzChallenge.pdb
+C:\Users\Demitri\source\repos\FizzBuzzChallenge\FizzBuzzChallenge\obj\Debug\net7.0\FizzBuzzChallenge.genruntimeconfig.cache
+C:\Users\Demitri\source\repos\FizzBuzzChallenge\FizzBuzzChallenge\obj\Debug\net7.0\ref\FizzBuzzChallenge.dll
